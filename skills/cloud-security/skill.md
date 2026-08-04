@@ -2,20 +2,24 @@
 
 ## Overview
 
-Covers security principles for cloud environments and shared responsibility models.
+Covers defensive cloud security architecture, identity management, and security operations.
 
 ## Knowledge Areas
 
+- Cloud shared responsibility model
 - Identity and access management
-- Cloud configuration security
-- Data protection
+- Secure configuration
 - Logging and monitoring
-- Secure deployment practices
+- Data protection
+- Cloud governance
 
-## Defensive Focus
+## Defensive Workflow
 
-Reduce cloud risks through secure architecture and continuous monitoring.
+- Review cloud configuration
+- Apply least privilege principles
+- Monitor security events
+- Improve security posture
 
 ## Responsible Use
 
-Cloud assessments require proper authorization.
+Cloud security assessment methods must only be used in environments where authorization exists.
