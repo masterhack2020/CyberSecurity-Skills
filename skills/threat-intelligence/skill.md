@@ -2,20 +2,25 @@
 
 ## Overview
 
-Covers collecting, analyzing, and applying security intelligence for defense.
+Covers collecting, analyzing, and applying threat information to improve defensive security decisions.
 
 ## Knowledge Areas
 
-- Threat actor tracking
+- Threat actor analysis
 - Indicators of compromise
 - Intelligence lifecycle
-- Risk analysis
-- Reporting
+- Risk assessment
+- Threat reporting
+- Detection improvement
 
-## Defensive Focus
+## Defensive Workflow
 
-Improve detection and decision making through actionable intelligence.
+- Collect intelligence
+- Validate information
+- Analyze relevance
+- Share findings
+- Improve defensive controls
 
 ## Responsible Use
 
-Use intelligence sources responsibly and legally.
+Threat intelligence activities must respect legal, ethical, and organizational boundaries.
