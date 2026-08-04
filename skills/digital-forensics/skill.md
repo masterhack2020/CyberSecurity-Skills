@@ -2,20 +2,25 @@
 
 ## Overview
 
-Covers investigation principles for collecting, preserving, and analyzing digital evidence.
+Covers defensive investigation of digital evidence, artifact analysis, and incident investigation workflows.
 
 ## Knowledge Areas
 
 - Evidence handling
 - File system analysis
 - Artifact analysis
+- Log analysis
 - Timeline analysis
-- Reporting
+- Evidence reporting
 
-## Defensive Focus
+## Defensive Workflow
 
-Support incident investigations while maintaining evidence integrity.
+- Acquire evidence
+- Preserve integrity
+- Analyze artifacts
+- Correlate findings
+- Document results
 
 ## Responsible Use
 
-Forensic activities require legal authorization.
+Forensic activities require legal authorization and proper handling procedures.
