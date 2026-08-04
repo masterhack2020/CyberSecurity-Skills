@@ -2,20 +2,27 @@
 
 ## Overview
 
-Covers preparation, detection, containment, recovery, and lessons learned processes.
+Covers the structured process of preparing for, detecting, containing, and recovering from security incidents.
 
 ## Knowledge Areas
 
 - Incident lifecycle
+- Detection and analysis
 - Alert triage
-- Response planning
+- Containment strategies
+- Eradication and recovery
 - Root cause analysis
-- Post incident improvement
+- Post-incident lessons learned
+- Security documentation
 
-## Defensive Focus
+## Defensive Workflow
 
-Build repeatable processes for handling security events.
+- Prepare response procedures
+- Analyze alerts and evidence
+- Contain affected systems
+- Restore operations safely
+- Improve security controls
 
 ## Responsible Use
 
-Response activities must follow organizational authorization and procedures.
+Incident response activities must follow organizational authorization, policies, and legal requirements.
